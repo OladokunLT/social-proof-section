@@ -1,0 +1,20 @@
+:root {
+    /* colors */
+    --Very-Dark-Magenta: hsl(300, 43%, 22%);
+    --Soft-Pink: hsl(333, 80%, 67%);
+
+    --Dark-Grayish-Magenta: hsl(303, 10%, 53%);
+    --Light-Grayish-Magenta: hsl(300, 24%, 96%);
+    --White: hsl(0, 0%, 100%);
+
+    /* font family */
+    --Font-family: 'League Spartan', sans-serif;
+
+    /* Fonts size */
+    --Font-size: 15px;
+
+    /* font weights */
+    --font-weight-400: 400;
+    --font-weight-500: 500;
+    --font-weight-600: 700;
+}
