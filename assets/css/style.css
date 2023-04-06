@@ -1,5 +1,6 @@
 @import url("../css/root.css");
 @import url("../css/utilities.css");
+@import url("../fonts/stylesheet.css");
 
 html {
     font-size: var(--Font-size);

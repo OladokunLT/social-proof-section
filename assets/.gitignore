@@ -17,3 +17,8 @@
 design
 README-template.md
 README.md
+node_modules
+package-lock.json
+
+# fonts generator_config file
+generator_*
