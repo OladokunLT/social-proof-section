@@ -8,6 +8,8 @@ html {
 body {
     font-family: 'League Spartan', sans-serif;
     font-size: var()--Font-size;
+    background-image: url("../images/bg-pattern-top-mobile.svg");
+    background-repeat: no-repeat;
 }
 .main {
     margin-inline: 1.5rem;
