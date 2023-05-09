@@ -110,12 +110,6 @@ aside .bg-container .rating-text {
     font-weight: 500;
 }
 
-/* footer {
-    left: 0;
-    right: 0;
-    padding-block: 3rem;
-    background-color: var(--Light-Grayish-Magenta); */
-}
 @media (min-width: 500px) {
     .main {
         margin-inline: 15%;
