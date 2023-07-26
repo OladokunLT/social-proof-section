@@ -22,10 +22,11 @@ Users should be able to:
 
 ### Screenshot
 
-> ![Screenshot of mobile screen solution](../solution-screenshots/solution-mobile.png)
+> ![Screenshot of mobile screen solution]("./solution-screenshots/solution-mobile.png")
 <br> 
 <br>
-> ![Screenshot of mobile screen solution](../solution-screenshots/solution-mobile.png)
+
+> ![Screenshot of mobile screen solution]("./solution-screenshots/solution-mobile.png")
 <br><br>
 
 ### Links
